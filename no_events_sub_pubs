@@ -1,3 +1,4 @@
+# testing comment
 create or replace view be_no_events as
 
 select
